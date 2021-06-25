@@ -1,5 +1,5 @@
 
-# ibarbearia Alura
+# Barbearia Alura
 
 Projeto feito para fixação dos conhecimentos de Html e CSS.
 
