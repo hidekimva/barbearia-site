@@ -6,7 +6,7 @@ Projeto feito para fixação dos conhecimentos de Html e CSS.
 
 ## Tecnologias usada
 
-**Client:**Html, CSS
+**Client:** Html, CSS
   
 ## Autor
 
